@@ -38,31 +38,36 @@ categories:
     links:
       - title: Synology NAS
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/NAS.png
-        url: http://home.72live.com:8888
+        url: https://home.72live.com:8888
         description: 我的群晖NAS
         tags: MyHome
       - title: iKuai
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/RouterOutline.png
-        url: http://72live.com:8888
+        url: https://72live.com:8888
         description: 拨号主路由器管理
         tags: MyHome
       - title: iStore旁路由
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/SSL.png
-        url: http://clash.72live.com:8888
+        url: https://clash.72live.com:8888
         description: VPN旁路由管理，基于ClashX
         tags: MyHome
       - title: Alist
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/Library.png
-        url: http://alist.72live.com:8888
+        url: https://alist.72live.com:8888
         description: 资源库管理中心，基于Alist，整合了我的Synology NAS，阿里云盘，百度网盘资源
         tags: MyHome
       - title: Aria2
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/Download.png
-        url: http://aria2.72live.com:8888
+        url: https://aria2.72live.com:8888
         description: Aria2下载利器
         tags: MyHome
       - title: Lucky
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/DNS.png
-        url: http://lucky.72live.com:8888
+        url: https://lucky.72live.com:8888
         description: 反向代理Lucky
+        tags: MyHome
+      - title: PVE
+        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/PVE.png
+        url: https://pve.72live.com:8888
+        description: Proxmox Virtual Environment
         tags: MyHome

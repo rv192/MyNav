@@ -33,7 +33,7 @@ friendship_links_url: https://geneasy.github.io/links/
 ## 网址导航数据
 ################
 categories:
-  - category: MyHome
+  - category: 智能网络管理
     icon: linecons-star
     links:
       - title: Synology NAS
@@ -52,7 +52,7 @@ categories:
         description: VPN旁路由管理，基于ClashX
         tags: MyHome
       - title: Alist
-        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/Libray.png
+        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/Library.png
         url: http://alist.72live.com:8888
         description: 资源库管理中心，基于Alist，整合了我的Synology NAS，阿里云盘，百度网盘资源
         tags: MyHome

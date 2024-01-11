@@ -73,6 +73,6 @@ categories:
         tags: MyHome
       - title: Plex Movie
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/plex-icon.png
-        url: https://pve.72live.com:8888
+        url: https://plex.72live.com:8888
         description: Plex在线电影播放
         tags: MyHome

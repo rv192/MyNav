@@ -1,0 +1,46 @@
+eye - 眼睛
+hair - 头发
+nose - 鼻子
+ear - 耳朵
+tooth (plural form: teeth) - 牙
+mouth - 嘴
+neck - 脖子
+shoulder - 肩膀
+hand - 手
+finger - 手指
+arm - 胳膊
+leg - 腿
+knee - 膝盖
+foot (plural form: feet) - 脚
+brain - 大脑
+heart - 心脏
+stomach - 胃
+headache - 头疼
+stomachache - 胃疼
+toothache - 牙疼
+catch a cold - 感冒
+earache - 耳朵疼
+run a temperature - 发烧
+have a cough - 咳嗽
+heart attack - 心脏病
+cancer - 癌症
+accident - 事故；意外
+insurance - 保险
+dentist - 牙医
+soap - 肥皂
+medicine - 药
+toothbrush - 牙刷
+problem - 问题
+hurt - 伤害；使疼痛
+pain - 疼痛；痛苦
+burn - 烧伤；灼伤
+ambulance - 救护车
+feel - 感觉
+appointment - 约会；预约
+check - 检查
+die - 死；死亡
+lie down - 躺下
+break - 中断；打断；休息
+dead - 死亡的；死者
+sick - 恶心的；生病的
+dangerous - 危险的

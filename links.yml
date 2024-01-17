@@ -36,15 +36,15 @@ categories:
   - category: 智能网络管理
     icon: linecons-star
     links:
-      - title: Synology NAS
-        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/NAS.png
-        url: https://home.72live.com:8888
-        description: 我的群晖NAS
-        tags: MyHome
       - title: iKuai
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/RouterOutline.png
         url: https://72live.com:8888
         description: 拨号主路由器管理
+        tags: MyHome
+      - title: PVE
+        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/PVE.png
+        url: https://pve.72live.com:8888
+        description: Proxmox Virtual Environment
         tags: MyHome
       - title: iStore旁路由
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/SSL.png
@@ -56,6 +56,11 @@ categories:
         url: https://alist.72live.com:8888
         description: 资源库管理中心，基于Alist，整合了我的Synology NAS，阿里云盘，百度网盘资源
         tags: MyHome
+      - title: Synology NAS
+        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/NAS.png
+        url: https://home.72live.com:8888
+        description: 我的群晖NAS
+        tags: MyHome
       - title: Aria2
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/Download.png
         url: https://aria2.72live.com:8888
@@ -66,19 +71,17 @@ categories:
         url: https://lucky.72live.com:8888
         description: 反向代理Lucky
         tags: MyHome
-      - title: PVE
-        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/PVE.png
-        url: https://pve.72live.com:8888
-        description: Proxmox Virtual Environment
-        tags: MyHome
       - title: Plex Movie
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/plex-icon.png
         url: https://plex.72live.com:8888
         description: Plex在线电影播放
         tags: MyHome
+  - category: 外链精选
+    icon: linecons-star
+    links:  
       - title: 磁力天堂
         logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/ciliduoduo.png
         url: https://cilitiantang.one/#search
         description: 磁力资源搜索
-        tags: 
+        tags: 外链
         

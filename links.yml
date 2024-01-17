@@ -76,3 +76,9 @@ categories:
         url: https://plex.72live.com:8888
         description: Plex在线电影播放
         tags: MyHome
+      - title: 磁力天堂
+        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/ciliduoduo.png
+        url: https://cilitiantang.one/#search
+        description: 磁力资源搜索
+        tags: 
+        

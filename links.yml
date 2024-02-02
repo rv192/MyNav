@@ -76,6 +76,16 @@ categories:
         url: https://plex.72live.com:8888
         description: Plex在线电影播放
         tags: MyHome
+      - title: FastGPT
+        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/FastGPT.svg
+        url: https://fastgpt.72live.com:8888
+        description: FastGPT，个人资料AI助理
+        tags: AIGC
+      - title: OneAPI
+        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/GPT.png
+        url: https://oneapi.72live.com:8888/
+        description: 各类大模型统一接口管理，如GPT,GLM等
+        tags: AIGC
   - category: 外链精选
     icon: linecons-star
     links:  

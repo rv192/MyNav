@@ -86,6 +86,16 @@ categories:
         url: https://oneapi.72live.com:8888/
         description: 各类大模型统一接口管理，如GPT,GLM等
         tags: AIGC
+      - title: Portainer/Docker Hub
+        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/Docker.png
+        url: https://docker.72live.com:8888
+        description: 我的Docker管理中心
+        tags: MyHome
+      - title: WireGuard UI
+        logo: https://raw.githubusercontent.com/rv192/MyNav/main/icons/wireguard.png
+        url: https://wireguard.72live.com:8888
+        description: WireGuard管理中心
+        tags: MyHome
   - category: 外链精选
     icon: linecons-star
     links:  
